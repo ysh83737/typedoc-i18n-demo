@@ -9,6 +9,10 @@
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-config-airbnb-typescript": "^17.1.0",
     "eslint-plugin-import": "^2.29.1",
+    "typedoc": "https://github.com/ysh83737/typedoc/releases/download/v0.26.0-dev.1/typedoc-0.26.0-dev.1.tgz",
     "typescript": "^5.3.3"
+  },
+  "scripts": {
+    "doc": "typedoc"
   }
 }
