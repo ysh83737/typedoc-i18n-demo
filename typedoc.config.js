@@ -2,6 +2,5 @@
 module.exports = {
   entryPoints: ['./src'],
   name: 'Typedoc i18n demo',
-  lang: 'en',
-  locales: './locales',
+  lang: 'zh',
 };
